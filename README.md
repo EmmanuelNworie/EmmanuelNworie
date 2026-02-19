@@ -7,7 +7,7 @@ I am a **Computational & Applied Mathematics PhD candidate** with a focus on **s
 
 ---
 
-## 🔥 Featured Work (Pinned Below)
+## 🔥 Featured Work 
 I maintain a small set of projects that demonstrate:
 - end-to-end problem solving
 - clean code structure
