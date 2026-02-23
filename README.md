@@ -35,7 +35,7 @@ I maintain a small set of projects that demonstrate:
 ## 📌 Currently Improving
 - Building a stronger portfolio of **high-quality public repositories**
 - Converting research scripts into clean, reusable project structures
-- Publishing clearer READMEs, figures, and project summaries
+
 
 ---
 
