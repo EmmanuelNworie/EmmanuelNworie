@@ -42,9 +42,7 @@ I maintain a small set of projects that demonstrate:
 ## 📫 Contact
 - Email: **enworie@smu.edu/Aidanuba2121@gmail.com**
 - LinkedIn: **www.linkedin.com/in/nworie-emmanuel-chinweuba**
-- Website (GitHub Pages): **https://emmanuelnworie.github.io** *(optional)*
+- Website (GitHub Pages): **https://emmanuelnworie.github.io** 
 
 ---
 
-### ⭐ Quick note
-If you're a recruiter or collaborator, start with the **pinned repositories** — each one is structured to be easy to understand and run.
